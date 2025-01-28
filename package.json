@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By JawadTechX",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-XMD",
-    "stop": "pm2 stop KHAN-XMD",
-    "restart": "pm2 restart KHAN-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
+    "stop": "pm2 stop KHAN-MD",
+    "restart": "pm2 restart KHAN-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
